@@ -17,8 +17,8 @@ h1{
 .lienNav{
     display: inline;
 }
-.div i{
-    
+div i{
+    color: #444;
 }
 .imgCafe{
     padding-bottom: 30em;
@@ -44,4 +44,11 @@ footer{
     padding-top: 1em;
     padding-bottom: 1em;
     text-align: center;
+}
+.map{
+    
+}
+iframe{
+    width: 50em;
+    height: 30em;
 }
