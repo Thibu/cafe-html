@@ -1,0 +1,25 @@
+CAFE FLORETTE.
+
+Reproduire à l'identique le template fourni pour un site client le CAFE FLORETTE.
+
+Le site comporte 3 pages accessibles via le menu de navigation.
+La police d'écriture à importer de google font est open sans. Importer les polices en épaisseur 300, 400, et 700
+Les icones s'obtiennent en important un script javascript dans la balise head
+
+    <script
+      src="https://kit.fontawesome.com/83f4286022.js"
+      crossorigin="anonymous"
+    ></script>
+
+les icônes s'obtiennent en insérant une classe spécifique dans une balise "i".
+
+Icone tasse de café:
+<i class="fas fa-coffee fa-3x my-10"></i>
+
+Icône de l'horloge:
+<i class="fas fa-clock fa-3x my-10"></i>
+
+D'autres icônes disponible sur 
+https://fontawesome.com/icons?d=gallery
+
+Code couleur background :  #444
