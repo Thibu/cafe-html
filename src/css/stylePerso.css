@@ -36,18 +36,35 @@ nav ul li a{
 ul li:hover{
     background-color: #444;
 }
+.centerJppomg{
+    text-align: center;
+}
 .jppomg{
+    width: 30em;
+    display: inline-block;
+    padding-top: 5em;
+    padding-bottom: 5em;
     text-align: center;
     color: #444;
 }
 .textWhite{
     color: white;
 }
-.centrerAImage{
+.posImgCafe{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10em;
+    width: 50em;
+}
+hr{
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.1em;
+    width: 20px;
 }
 .imgCafe{
     display: block;
-    padding-bottom: 30em;
     text-align: center;
     background-image: url(../images/frame.jpg);
     background-position: center;
@@ -63,6 +80,7 @@ h3,h2{
     text-align: center;
 }
 .reservez{
+    padding: 5em;
     text-align: center;
 }
 footer{
@@ -73,9 +91,17 @@ footer{
     text-align: center;
 }
 .map{
-    
 }
 iframe{
     width: 50em;
     height: 30em;
+}
+button{
+    border-radius: 2em;
+    background-color: #444;
+    color: white;
+    padding: 1em;
+}
+p,h3,i{
+    padding: 0.5em;
 }
