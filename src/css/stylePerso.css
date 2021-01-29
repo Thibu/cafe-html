@@ -96,6 +96,9 @@ h3,h2{
     padding: 5em;
     padding-bottom: 10em;
 }
+.reservez p, .imgCafe p{
+    padding-bottom: 2rem;
+}
 .map{
     text-align: center;
     padding: 7em;
@@ -118,15 +121,29 @@ iframe{
     height: 25em;
 }
 button{
+    font-size: 1rem;
     border: none;
     border-radius: 2em;
     background-color: #444;
     color: white;
-    padding: 1em;
+    padding: 0.5em;
+}
+.button{
+    text-decoration: none;
+    border: none;
+    border-radius: 2em;
+    background-color: #444;
+    color: white;
+    padding: 0.5em;
 }
 .blankButton{
     background-color: white;
     color: #444;
+}
+.blankButton:hover{
+    background-color: #222;
+    transition: 0.3s;
+    color: white;
 }
 p,h3{
     padding: 0.5em;
@@ -182,6 +199,7 @@ div .ligne{
     height: 3rem;
     width: 40rem;
 }
+
 footer{
     position: absolute;
     bottom: 0;
