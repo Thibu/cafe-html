@@ -61,10 +61,10 @@ ul li:hover{
     color: white;
 }
 .posImgCafe{
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
     padding: 10em;
-    width: 40%;
+    margin: 0 auto;
+    width: 60%;
 }
 hr{
     border-color: black;
@@ -75,7 +75,6 @@ hr{
     width: 20px;
 }
 .imgCafe{
-    text-align: center;
     background-image: url(../images/frame.jpg);
     background-position: center;
     background-size: cover;
@@ -99,7 +98,7 @@ h3,h2{
 }
 .map{
     text-align: center;
-    padding: 8em;
+    padding: 7em;
     width: auto;
 }
 .mapDiv, .mapDiv2{
@@ -112,6 +111,7 @@ h3,h2{
 .mapDiv2{
     vertical-align: top;
     text-align: left;
+    font-size: 1.5rem;
 }
 iframe{
     width: 40em;
@@ -141,21 +141,22 @@ div .ligne{
 }
 .ligne4{
     text-align: center;
-    height: 25px;
-    width: 25px;
+    height: 35px;
+    width: 35px;
     background-color: pink;
     border-radius: 50%;
     display: inline-block;
 }
 .ligne11{
     text-align: center;
-    height: 25px;
-    width: 25px;
+    height: 35px;
+    width: 35px;
     background-color: brown;
     border-radius: 50%;
     display: inline-block;
 }
 .formulaire{
+    font-size: 1.5rem;
     padding: 10rem;
     margin-left: auto;
     margin-right: auto;
