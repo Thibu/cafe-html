@@ -62,9 +62,9 @@ ul li:hover{
 }
 .posImgCafe{
     text-align: center;
-    padding: 10em;
+    padding: 2.5rem 0 2.5rem 0;
     margin: 0 auto;
-    width: 60%;
+    width: 40%;
 }
 hr{
     border-color: black;
@@ -191,13 +191,13 @@ div .ligne{
 }
 .formulaire form input{
     height: 2rem;
-    width: 40rem;
+    width: 100%;
     font-size: 1.3rem;
 }
 .formulaire form textarea{
     font-size: 1.3rem;
     height: 3rem;
-    width: 40rem;
+    width: 100%;
 }
 
 footer{

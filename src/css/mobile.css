@@ -1,0 +1,80 @@
+@media screen and (min-width: 360px) and (max-width: 719px){
+
+    header h1{
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+    }
+    header .nav{
+        float: none;
+        text-align: center;
+    }
+    .nav li{
+        padding: 1rem;
+    }
+
+    .jppomg{
+        display: block;
+        margin: 0 auto;
+        padding: 1rem;
+        width: 100%;
+    }
+    .posImgCafe{
+        padding: 1rem 1rem 2rem 1rem;
+        width: 100%;
+    }
+    .posImgCafe h2{
+        font-size: 2rem;
+    }
+
+    .reservez{
+        width: 100%;
+        margin: 0 auto;
+        padding: 1rem 1rem 7rem 1rem;
+    }
+    .map{
+        padding: 0 0 2rem 0;
+    }
+    .mapDiv{
+        width: 100%;
+        padding: 1rem;
+    }
+    .mapDiv2{
+        font-size: 1rem;
+        padding: 1rem 1rem 3rem 1rem;
+    }
+    .ligne4, .ligne11{
+        height: 25px;
+        width: 25px;
+    } 
+    .map iframe{
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+    .formulaire{
+        font-size: 1rem;
+        padding: 1rem 1rem 1rem 1rem;
+        width: 100%;
+    }
+    .formulaire form input{
+        width: 100%;
+    }
+    .formulaire form textarea{
+        width: 100%;
+    }
+}
+/* @media screen and (min-width: 720px) and (max-width: 1023px){
+
+
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px){
+
+}
+@media  */
