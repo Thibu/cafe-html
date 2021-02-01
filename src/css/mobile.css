@@ -18,10 +18,12 @@
         margin: 0 auto;
         padding: 1rem;
         width: 100%;
+        font-size: 1rem;
     }
     .posImgCafe{
         padding: 1rem 1rem 2rem 1rem;
         width: 100%;
+        font-size: 1rem;
     }
     .posImgCafe h2{
         font-size: 2rem;
@@ -31,6 +33,7 @@
         width: 100%;
         margin: 0 auto;
         padding: 1rem 1rem 7rem 1rem;
+        font-size: 1rem;
     }
     .map{
         padding: 0 0 2rem 0;
@@ -49,6 +52,10 @@
     } 
     .map iframe{
         width: 100%;
+    }
+    .button{
+        font-size: 1rem;
+        padding: 1rem
     }
 
 
